@@ -37,10 +37,10 @@
 - 节点订阅地址 https://raw.fastgit.org/freefq/free/master/v2
 - 志愿者维护
 
-### Bulik
+### Bulink
 - 志愿者搭建
-- https://bulink.xyz/
-- https://burstlinker.com/
+- <https://bulink.xyz/>
+- <https://burstlinker.com/>
 - 5G/月
 
 ### Heroku-v2
